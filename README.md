@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Harshal Jadhav Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=harshalrj25)](https://medium.com/@manfyegoh)
+[![Manfye Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=manfyegoh)](https://medium.com/@manfyegoh)
 
 <!--
 **manfye/manfye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
