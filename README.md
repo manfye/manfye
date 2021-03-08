@@ -1,4 +1,8 @@
 ### Hi there 👋
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manfye&count_private=true)
+
+
 [![Manfye Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=manfyegoh)](https://medium.com/@manfyegoh)
 
 <!--
