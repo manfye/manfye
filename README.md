@@ -3,7 +3,7 @@
 ![Manfye's GitHub stats](https://github-readme-stats.vercel.app/api?username=manfye&count_private=true&show_icons=true)
 
 
-[![Manfye Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=manfyegoh)](https://medium.com/@manfyegoh)
+<!-- [![Manfye Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=manfyegoh)](https://medium.com/@manfyegoh) -->
 
 <!--
 **manfye/manfye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
