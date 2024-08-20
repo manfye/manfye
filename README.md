@@ -24,7 +24,11 @@
 <div align="center">
 <br>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manfye&show_icons=true&theme=highcontrast&hide_border=true&locale=en" alt="manfye"/></img><img src="https://github-readme-stats.vercel.app/api/top-langs?username=manfye&show_icons=true&theme=highcontrast&hide_border=true&locale=en&layout=compact" alt="manfye"/></img>  </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manfye&show_icons=true&theme=highcontrast&hide_border=true&locale=en" alt="manfye"/></img>  </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manfye&show_icons=true&theme=highcontrast&hide_border=true&locale=en&layout=compact" alt="manfye"/> </img> </p>
+
+
 
 
 
