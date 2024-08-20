@@ -21,15 +21,6 @@
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=manfye&theme=dark" alt="manfye" /></img></p>
 
 
-
-
-<h3 align="center">Languages and Tools:</h3>
-Python
-<br>
-React
-<br>
-Dart
-
 <div align="center">
 <br>
 
