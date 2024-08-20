@@ -18,25 +18,16 @@
 
 
 
- ![Manfye's GitHub stats](https://github-readme-stats.vercel.app/api?username=manfye&count_private=true&show_icons=true)
-
-
-
-<p align="center"><a href="https://saifalmajd.web.app"> <img src="https://raw.githubusercontent.com/Syf-Almjd/Syf-Almjd/088a48d03ee3ee837683a4e83aeef25f0c512753/about_me.gif" alt="SaifAlmajd" width="50"> </a> <a href="https://saifalmajd.web.app"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=2000&color=4FC114&center=true&vCenter=true&repeat=false&width=300&lines=SaifAlmajd+Portfolio!" alt="Typing SVG" /></a> <a href="https://linktr.ee/saifalmajd"> <img src="https://raw.githubusercontent.com/Syf-Almjd/Syf-Almjd/088a48d03ee3ee837683a4e83aeef25f0c512753/about_me.gif" alt="SaifAlmajd" width="50"> </a>
- <div align="center">
- 
-</div>
-
-
-
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=manfye&theme=dark" alt="syf-almjd" /></img></p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=manfye&theme=dark" alt="manfye" /></img></p>
 
 
 
 
 <h3 align="center">Languages and Tools:</h3>
 Python
+<br>
 React
+<br>
 Dart
 
 <div align="center">
