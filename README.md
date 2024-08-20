@@ -1,20 +1,20 @@
 ### Hi there 👋
 
-![Manfye's GitHub stats](https://github-readme-stats.vercel.app/api?username=manfye&count_private=true&show_icons=true)
 
 
 
-<!--
-**manfye/manfye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1></h1>
 
-Here are some ideas to get you started:
+<div align="center">
+ <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Github Contributions](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manfye&theme=chartreuse_dark)
+
+![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=manfyetheme=chartreuse_dark)&nbsp;&nbsp;
+&nbsp;
+![Commit Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manfye&theme=chartreuse_dark&utcOffset=8)
+
+</div>
+
+
+
